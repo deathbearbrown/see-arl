@@ -1,5 +1,5 @@
 define(function() {
-	return function(elem) {
-		elem.innerHTML = 'e';
-	};
+  return function(elem) {
+    elem.innerHTML = 'e';
+  };
 });
