@@ -285,3 +285,6 @@ iframe {
   font-family: 'Pacifico', cursive;
   color: #a00;
 }
+iframe {
+  border: 0;
+}
